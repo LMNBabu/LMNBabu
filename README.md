@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lingam Mahesh Naga Babu  
+# Hi 👋, I'm Mahesh Naga Babu Lingam  
 
 As a Computer Science graduate with a passion for **problem-solving and software engineering**, I specialize in building practical solutions with **Java, Python, and Web Technologies**.  
 I have a strong foundation in **Data Structures, Algorithms, Operating Systems, and OOP**, and experience with **cloud platforms (Azure, AWS)**.  
