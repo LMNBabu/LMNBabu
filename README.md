@@ -1,78 +1,105 @@
 # Mahesh Naga Babu Lingam
 
-Software Engineer focused on building scalable web applications and backend systems using Python and modern frameworks. I enjoy solving real-world problems through clean, efficient code and continuously improving my skills in software development and AI.
+Software Engineer focused on building scalable backend systems and full stack web applications. I work primarily with Python and modern frameworks, and I am actively exploring Artificial Intelligence and Generative AI to build smarter applications.
+
+---
 
 ## About Me
 
-I am a Computer Science student with hands-on experience in backend development, API design, and full stack applications. I have worked with FastAPI, Django, and Flask to build efficient systems and have developed projects integrating AI capabilities such as face recognition and multilingual voice processing.
+I am a Computer Science graduate (2025) with strong fundamentals in programming, data structures, and backend development. I enjoy designing efficient systems, building APIs, and solving real-world problems through structured and maintainable code.
 
-I am particularly interested in building reliable backend systems and exploring the integration of AI and Generative AI into web applications.
+I have hands-on experience developing API-driven applications using FastAPI, Django, and Flask, along with frontend development using React. I have also worked on AI-based projects involving face recognition and multilingual voice processing.
 
-Currently, I am looking for opportunities as a Software Engineer, Python Developer, or Backend Developer where I can contribute to real-world projects and grow as a developer.
+I am currently seeking opportunities as a Software Engineer, Python Developer, or Backend Developer.
+
+---
+
+## What I Focus On
+
+- Backend development using Python and FastAPI  
+- Designing scalable and maintainable APIs  
+- Building full stack applications  
+- Exploring AI and Generative AI integrations  
+- Writing clean, modular, and production-ready code  
+
+---
 
 ## Technical Skills
 
 Programming Languages  
-Python, Java, C, JavaScript
+Python, Java, C, JavaScript  
 
 Frontend  
-HTML, CSS, React
+HTML, CSS, React  
 
 Backend & Frameworks  
-FastAPI, Django, Flask
+FastAPI, Django, Flask  
 
 Databases  
-PostgreSQL, SQLite
+PostgreSQL, SQLite  
 
 Tools & Technologies  
-Git, GitHub, Docker, Linux, AWS (Basics)
+Git, Docker, Linux, AWS (Basics)  
 
 Core Concepts  
-Data Structures, REST APIs, API Design, System Design (Basics), Problem Solving
+Data Structures, REST APIs, API Design, System Design (Basics)  
 
-Libraries  
-NumPy, Pandas
+---
 
-## Projects
+## Featured Projects
 
 ### FaceTrack AI – AI-Based Attendance System
-Developed an automated attendance system using face recognition and backend processing.
 
-- Built real-time face detection using OpenCV and ONNX Runtime with over 85 percent accuracy  
-- Developed FastAPI backend handling 100+ requests per session  
-- Implemented duplicate detection reducing redundant entries by 90 percent  
-- Designed role-based access system for better security  
-- Added CSV export functionality for reporting and data handling  
+An automated attendance system using face recognition and backend processing.
+
+- Achieved 85%+ accuracy using OpenCV and ONNX Runtime  
+- Built FastAPI backend handling 100+ requests per session  
+- Implemented duplicate detection reducing redundant entries  
+- Designed role-based access control  
+- Enabled CSV export for reporting and analytics  
+
+---
 
 ### VoiceBridge AI – Multilingual Voice Processing System
-Built a complete pipeline for speech-to-text, translation, and text-to-speech.
 
-- Developed speech recognition system using Whisper supporting multiple languages  
-- Built Flask APIs to process audio requests efficiently  
-- Integrated translation and text-to-speech for end-to-end communication  
-- Improved response time and optimized processing flow  
+A system for speech-to-text, translation, and text-to-speech.
+
+- Built speech recognition system supporting multiple languages  
+- Developed Flask APIs for audio processing  
+- Integrated translation and text-to-speech pipeline  
+- Improved response time through optimized request handling  
+
+---
 
 ## Experience
 
 ### Software Development Intern – ITJOBXS (2024)
 
 - Developed REST APIs using FastAPI and Flask  
-- Built and tested multiple endpoints for efficient data handling  
+- Built multiple endpoints for efficient data processing  
 - Designed database schemas using PostgreSQL and SQLite  
-- Implemented logging and error handling mechanisms  
-- Used Docker for containerization and consistent deployment  
-- Managed version control using Git throughout development  
+- Implemented logging and error handling  
+- Containerized applications using Docker  
+- Used Git for version control and collaboration  
 
-## Education
+---
 
-Bachelor of Technology in Computer Science and Engineering  
-Koneru Lakshmaiah University (2021 – 2025)
+## Currently Learning
+
+- Advanced backend system design  
+- AI and Generative AI applications  
+- Cloud fundamentals (AWS)  
+- Performance optimization techniques  
+
+---
 
 ## Goals
 
-I aim to build scalable backend systems and work on applications that integrate AI and real-world problem solving. I am continuously learning and exploring new technologies to improve my development skills.
+My goal is to become a strong Software Engineer by building scalable systems and contributing to real-world applications. I am particularly interested in combining backend development with AI to create impactful solutions.
+
+---
 
 ## Contact
 
 Email: maheshnagababu2@gmail.com  
-LinkedIn: https://www.linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/yourprofile  
