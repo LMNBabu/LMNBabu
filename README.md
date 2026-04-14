@@ -1,84 +1,78 @@
-# Hi 👋, I'm Mahesh Naga Babu Lingam  
+# Mahesh Naga Babu Lingam
 
-As a Computer Science graduate with a passion for **problem-solving and software engineering**, I specialize in building practical solutions with **Java, Python, and Web Technologies**.  
-I have a strong foundation in **Data Structures, Algorithms, Operating Systems, and OOP**, and experience with **cloud platforms (Azure, AWS)**.  
-I’m always eager to learn new technologies and collaborate on innovative projects. 🚀  
+Software Engineer focused on building scalable web applications and backend systems using Python and modern frameworks. I enjoy solving real-world problems through clean, efficient code and continuously improving my skills in software development and AI.
 
----
+## About Me
 
-## 💻 Front-end  
-- HTML5, CSS, JavaScript (Basics)  
-- PyQt5  
-- Android Studio  
+I am a Computer Science student with hands-on experience in backend development, API design, and full stack applications. I have worked with FastAPI, Django, and Flask to build efficient systems and have developed projects integrating AI capabilities such as face recognition and multilingual voice processing.
 
-## 💾 Back-end  
-- Java, Python, SQL  
-- Flask (Basics)  
+I am particularly interested in building reliable backend systems and exploring the integration of AI and Generative AI into web applications.
 
----
+Currently, I am looking for opportunities as a Software Engineer, Python Developer, or Backend Developer where I can contribute to real-world projects and grow as a developer.
 
-🔭 I’m currently working on:  
-- Data Structures & Algorithms Repository (Java + Python)  
-- Library Management System (Java + SQL)  
-- Task Manager Web App (HTML5 + CSS + JS)  
+## Technical Skills
 
-🌱 I’m currently learning:  
-- Microsoft Azure Fundamentals  
-- Advanced DSA (LeetCode, HackerRank)  
+Programming Languages  
+Python, Java, C, JavaScript
 
-👯 I’m looking to collaborate on:  
-- Open Source Projects  
-- Full-Stack Applications  
+Frontend  
+HTML, CSS, React
 
-👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/YOUR-USERNAME)  
+Backend & Frameworks  
+FastAPI, Django, Flask
 
-💬 Ask me about:  
-- Java, Python, SQL  
-- DSA & Problem-Solving  
-- Cloud Basics (Azure & AWS)  
+Databases  
+PostgreSQL, SQLite
 
-📫 How to reach me: **maheshnagababu2@gmail.com**  
+Tools & Technologies  
+Git, GitHub, Docker, Linux, AWS (Basics)
 
-📄 Know about my experiences: [LinkedIn Profile](https://linkedin.com/in/mahesh-nagababu)  
+Core Concepts  
+Data Structures, REST APIs, API Design, System Design (Basics), Problem Solving
 
-⚡ Fun fact: I enjoy blending **AI + Software Development** to build useful applications.  
+Libraries  
+NumPy, Pandas
 
----
+## Projects
 
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mahesh-nagababu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:maheshnagababu2@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>
-</p>
+### FaceTrack AI – AI-Based Attendance System
+Developed an automated attendance system using face recognition and backend processing.
 
----
+- Built real-time face detection using OpenCV and ONNX Runtime with over 85 percent accuracy  
+- Developed FastAPI backend handling 100+ requests per session  
+- Implemented duplicate detection reducing redundant entries by 90 percent  
+- Designed role-based access system for better security  
+- Added CSV export functionality for reporting and data handling  
 
-## 🛠️ Languages and Tools:
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>  
-</p>
+### VoiceBridge AI – Multilingual Voice Processing System
+Built a complete pipeline for speech-to-text, translation, and text-to-speech.
 
----
+- Developed speech recognition system using Whisper supporting multiple languages  
+- Built Flask APIs to process audio requests efficiently  
+- Integrated translation and text-to-speech for end-to-end communication  
+- Improved response time and optimized processing flow  
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMNBabu&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMNBabu&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+### Software Development Intern – ITJOBXS (2024)
 
----
+- Developed REST APIs using FastAPI and Flask  
+- Built and tested multiple endpoints for efficient data handling  
+- Designed database schemas using PostgreSQL and SQLite  
+- Implemented logging and error handling mechanisms  
+- Used Docker for containerization and consistent deployment  
+- Managed version control using Git throughout development  
 
-⭐ *Always open to collaboration on open-source & innovative projects.*  
+## Education
+
+Bachelor of Technology in Computer Science and Engineering  
+Koneru Lakshmaiah University (2021 – 2025)
+
+## Goals
+
+I aim to build scalable backend systems and work on applications that integrate AI and real-world problem solving. I am continuously learning and exploring new technologies to improve my development skills.
+
+## Contact
+
+Email: maheshnagababu2@gmail.com  
+LinkedIn: https://www.linkedin.com/in/yourprofile
