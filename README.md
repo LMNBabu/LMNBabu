@@ -71,18 +71,6 @@ A system for speech-to-text, translation, and text-to-speech.
 
 ---
 
-## Experience
-
-### Software Development Intern – ITJOBXS (2024)
-
-- Developed REST APIs using FastAPI and Flask  
-- Built multiple endpoints for efficient data processing  
-- Designed database schemas using PostgreSQL and SQLite  
-- Implemented logging and error handling  
-- Containerized applications using Docker  
-- Used Git for version control and collaboration  
-
----
 
 ## Currently Learning
 
