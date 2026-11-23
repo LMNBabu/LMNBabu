@@ -90,4 +90,4 @@ My goal is to become a strong Software Engineer by building scalable systems and
 ## Contact
 
 Email: maheshnagababu2@gmail.com  
-LinkedIn: https://www.linkedin.com/in/yourprofile  
+LinkedIn: https://www.linkedin.com/in/lingammaheshnagababu/
