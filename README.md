@@ -63,18 +63,21 @@ Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation
 
 ### 01. Multi-Agent AI Research Assistant
 
-**Status:** In Development
+**Status:** Completed
 
-An AI-powered research system designed to distribute research activities among specialized agents and generate structured reports.
+An AI-powered research automation system that coordinates five specialized AI agents to perform research planning, web research, information analysis, fact-checking, and generate comprehensive, source-backed research reports.
 
-**Technology Stack:** Python, CrewAI, LLM APIs, Web Search
+**Technology Stack:** Python, CrewAI, Google Gemini, Tavily, Pydantic, Streamlit
 
-- Designing specialized agents for research, analysis, and report generation.
-- Exploring task delegation and multi-agent collaboration.
-- Integrating external search tools for information gathering.
-- Working towards structured and source-supported research outputs.
+- Developed specialized AI agents for research planning, web research, analysis, fact-checking, and report generation.
+- Implemented sequential task orchestration and agent collaboration using CrewAI.
+- Integrated Tavily for automated web search and information gathering.
+- Built source tracking and citation validation to ensure traceable, evidence-supported research outputs.
+- Implemented structured data validation and fact-checking mechanisms.
+- Developed an interactive Streamlit dashboard with background task execution and progress tracking.
+- Added CLI support and automated testing using Pytest.
 
-**Focus:** Agent orchestration, tool calling, task delegation, and LLM workflows.
+**Focus:** Multi-agent orchestration, LLM integration, tool calling, task delegation, AI-powered research automation, source verification, and structured report generation.
 
 ### 02. Document Intelligence RAG Assistant
 
